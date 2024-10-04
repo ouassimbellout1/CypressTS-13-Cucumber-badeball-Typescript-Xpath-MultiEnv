@@ -1,5 +1,5 @@
 # Implement Cucumber in Cypress 
-## By **Mohammad Monfared** | [LinkedIn](https://www.linkedin.com/in/mohammad-monfared) | [YouTube](https://www.youtube.com/automationcamp) | [Website](http://www.monfared.io/)
+## By **Wassim** | [LinkedIn](https://www.linkedin.com/in/mohammad-monfared) | [YouTube](https://www.youtube.com/automationcamp) | [Website](http://www.monfared.io/)
 
 ---
 
